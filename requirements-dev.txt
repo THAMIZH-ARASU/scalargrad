@@ -1,0 +1,9 @@
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.990
+scikit-learn>=0.24.0
+build>=0.10.0
+twine>=4.0.0
