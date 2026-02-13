@@ -12,7 +12,7 @@ setup(
     version="1.0.4",
     author="Thamizharasu Saravanan",
     author_email="amizharasu@gmail.com",
-    description="A production-grade scalar-valued autograd engine for automatic differentiation",
+    description="A minimal scalar-valued autograd engine for automatic differentiation",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/THAMIZH-ARASU/scalargrad",
