@@ -358,9 +358,9 @@ If you use ScalarGrad in your research, please cite:
 ```bibtex
 @software{scalargrad2024,
   title = {ScalarGrad: A Production-Grade Scalar-Valued Autograd Engine},
-  author = {Production Engineering Team},
-  year = {2024},
-  url = {https://github.com/yourusername/scalargrad}
+  author = {Thamizharasu Saravanan},
+  year = {2026},
+  url = {https://github.com/THAMIZH-ARASU/scalargrad}
 }
 ```
 
