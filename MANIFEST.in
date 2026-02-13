@@ -2,5 +2,6 @@ include README.md
 include LICENSE
 include requirements.txt
 include requirements-dev.txt
+recursive-include assets *.png *.jpg *.svg
 recursive-include examples *.py
 recursive-include tests *.py

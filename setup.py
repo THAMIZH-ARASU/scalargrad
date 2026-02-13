@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="scalargrad",
-    version="1.0.0",
+    version="1.0.1",
     author="Thamizharasu Saravanan",
     author_email="amizharasu@gmail.com",
     description="A production-grade scalar-valued autograd engine for automatic differentiation",

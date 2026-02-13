@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/scalargrad_banner.png" alt="ScalarGrad Banner" width="800"/>
+</div>
+
 # ScalarGrad
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)

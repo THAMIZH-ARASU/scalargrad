@@ -60,7 +60,7 @@ function Invoke-Check {
 function Invoke-TestUpload {
     Write-Host "Uploading to TestPyPI..." -ForegroundColor Yellow
     Invoke-Check
-    twine upload --repository testpypi dist/*
+    twine upload --repository testpypi dist/* --verbose
     if ($LASTEXITCODE -eq 0) {
         Write-Host "[OK] Uploaded to TestPyPI" -ForegroundColor Green
         Write-Host "Install with: pip install --index-url https://test.pypi.org/simple/ scalargrad" -ForegroundColor Cyan
@@ -80,7 +80,7 @@ function Invoke-Upload {
     
     Write-Host "Uploading to PyPI..." -ForegroundColor Yellow
     Invoke-Check
-    twine upload dist/*
+    twine upload dist/* --verbose
     if ($LASTEXITCODE -eq 0) {
         Write-Host "[OK] Uploaded to PyPI" -ForegroundColor Green
         Write-Host "Install with: pip install scalargrad" -ForegroundColor Cyan
