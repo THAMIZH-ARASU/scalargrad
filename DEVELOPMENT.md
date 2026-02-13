@@ -156,7 +156,7 @@ Update version in:
 
 Add your changes to `CHANGELOG.md`:
 ```markdown
-## [1.0.1] - 2024-XX-XX
+## [<version>] - YYYY-MM-DD
 
 ### Added
 - New feature X
@@ -176,8 +176,8 @@ python -m build
 ```
 
 This creates:
-- `dist/scalargrad-1.0.0.tar.gz` (source distribution)
-- `dist/scalargrad-1.0.0-py3-none-any.whl` (wheel)
+- `dist/scalargrad-<version>.tar.gz` (source distribution)
+- `dist/scalargrad-<version>-py3-none-any.whl` (wheel)
 
 ### Step 4: Test on TestPyPI (Recommended)
 
@@ -212,8 +212,8 @@ python -c "from scalargrad import Scalar; print('Success!')"
 
 1. Tag the release:
    ```bash
-   git tag -a v1.0.0 -m "Release version 1.0.0"
-   git push origin v1.0.0
+   git tag -a <version> -m "Release version <version>"
+   git push origin <version>
    ```
 
 2. Create release on GitHub:

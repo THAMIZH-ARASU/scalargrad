@@ -5,13 +5,13 @@ ScalarGrad: A Production-Grade Scalar-Valued Autograd Engine
 A professional implementation of automatic differentiation with neural network
 capabilities, visualization tools, and training utilities.
 
-Author: Production Engineering Team
+Author: Thamizharasu Saravanan
 License: MIT
-Version: 1.0.0
+Version: 1.0.2
 """
 
-__version__ = '1.0.0'
-__author__ = 'Production Engineering Team'
+__version__ = '1.0.2'
+__author__ = 'Thamizharasu Saravanan'
 __license__ = 'MIT'
 
 # Core components
