@@ -3,7 +3,7 @@ Optimization module for ScalarGrad.
 """
 
 from .optimizer import Optimizer
-from .adam import SGD, Adam
 from .sgd import SGD
+from .adam import Adam
 
 __all__ = ['Optimizer', 'SGD', 'Adam']

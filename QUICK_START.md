@@ -159,6 +159,6 @@ Your package is production-ready and can be published to PyPI! 🎉
 ---
 
 **Package Name**: scalargrad  
-**Version**: 1.0.2
+**Version**: 1.0.3
 **Status**: ✅ Ready for PyPI  
 **Created**: 2026-02-13
