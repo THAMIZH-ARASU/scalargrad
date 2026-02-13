@@ -11,8 +11,8 @@ def main():
     """Main function for command-line interface."""
     print(f"""
 ╔═══════════════════════════════════════════════════════════╗
-║                       ScalarGrad                         ║
-║     A Production-Grade Autograd Engine                   ║
+║                       ScalarGrad                          ║
+║     A Minimal Scalar-Valued Autograd Engine               ║
 ╚═══════════════════════════════════════════════════════════╝
 
 Version: {__version__}
@@ -25,7 +25,7 @@ For usage examples, see:
   - examples/basic_operations.py
   - examples/neural_network.py
 
-Documentation: https://github.com/yourusername/scalargrad
+Documentation: https://github.com/THAMIZH-ARASU/scalargrad
 
 Quick Start:
   >>> from scalargrad import Scalar
@@ -35,7 +35,7 @@ Quick Start:
   >>> c.backward()
   >>> print(f"dc/da = {{a.grad}}, dc/db = {{b.grad}}")
 
-For help: https://github.com/yourusername/scalargrad#readme
+For help: https://github.com/THAMIZH-ARASU/scalargrad#readme
 """)
     
     logger.info("ScalarGrad loaded successfully!")

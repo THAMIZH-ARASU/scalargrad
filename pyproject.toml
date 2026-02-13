@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "scalargrad"
 version = "1.0.3"
-description = "A production-grade scalar-valued autograd engine for automatic differentiation"
+description = "A minimal scalar-valued autograd engine for automatic differentiation"
 readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}

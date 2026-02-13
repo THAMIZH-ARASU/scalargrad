@@ -10,7 +10,7 @@ Be respectful and inclusive in all interactions with the community.
 
 ### Reporting Bugs
 
-1. Check if the bug has already been reported in [Issues](https://github.com/yourusername/scalargrad/issues)
+1. Check if the bug has already been reported in [Issues](https://github.com/THAMIZH-ARASU/scalargrad/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce
@@ -20,7 +20,7 @@ Be respectful and inclusive in all interactions with the community.
 
 ### Suggesting Features
 
-1. Check existing [Issues](https://github.com/yourusername/scalargrad/issues) for similar suggestions
+1. Check existing [Issues](https://github.com/THAMIZH-ARASU/scalargrad/issues) for similar suggestions
 2. Create a new issue with:
    - Clear description of the feature
    - Use cases and benefits
@@ -69,7 +69,7 @@ Be respectful and inclusive in all interactions with the community.
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/scalargrad.git
+git clone https://github.com/THAMIZH-ARASU/scalargrad.git
 cd scalargrad
 
 # Install in development mode with dev dependencies

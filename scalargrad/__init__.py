@@ -1,5 +1,5 @@
 """
-ScalarGrad: A Production-Grade Scalar-Valued Autograd Engine
+ScalarGrad: A Minimal Scalar-Valued Autograd Engine
 =============================================================
 
 A professional implementation of automatic differentiation with neural network

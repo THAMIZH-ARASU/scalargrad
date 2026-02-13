@@ -7,7 +7,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A production-grade scalar-valued automatic differentiation (autograd) engine with neural network capabilities, built from scratch in Python.
+A minimal scalar-valued automatic differentiation (autograd) engine with neural network capabilities, built from scratch in Python.
 
 ## Features
 
@@ -30,7 +30,7 @@ pip install scalargrad
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/scalargrad.git
+git clone https://github.com/THAMIZH-ARASU/scalargrad.git
 cd scalargrad
 pip install -e .
 ```
@@ -367,8 +367,8 @@ If you use ScalarGrad in your research, please cite:
 ## Support
 
 For questions and support:
-- Open an issue on [GitHub](https://github.com/yourusername/scalargrad/issues)
-- Check the [documentation](https://github.com/yourusername/scalargrad#readme)
+- Open an issue on [GitHub](https://github.com/THAMIZH-ARASU/scalargrad/issues)
+- Check the [documentation](https://github.com/THAMIZH-ARASU/scalargrad#readme)
 
 ---
 
