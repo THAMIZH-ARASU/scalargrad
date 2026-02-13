@@ -7,10 +7,10 @@ capabilities, visualization tools, and training utilities.
 
 Author: Thamizharasu Saravanan
 License: MIT
-Version: 1.0.3
+Version: 1.0.4
 """
 
-__version__ = '1.0.3'
+__version__ = '1.0.4'
 __author__ = 'Thamizharasu Saravanan'
 __license__ = 'MIT'
 
